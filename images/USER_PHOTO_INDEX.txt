@@ -1,0 +1,15 @@
+User-supplied genuine photo assets used by the website
+
+- campus-building-real.jpg: supplied JVM campus building
+- science-lab-real.jpg: supplied classroom/laboratory activity
+- sports-court-real.jpg: supplied outdoor sports court
+- annual-event-2025-real.jpg: supplied annual event
+- library-real.jpg: supplied library
+- cultural-performance-real.jpg / arts-performance-collage-real.jpg: supplied cultural performances
+- student-assembly-real.jpg / students-campus-real.jpg: supplied students and campus life
+- neet-2026-achievers-real.jpg: supplied NEET achievers poster
+- student-achievement-collage-real.jpg / student-achievers-archive-real.jpg: supplied achiever collages
+- teacher-l-n-pattanaik-real.jpg: supplied file explicitly named for Mr. L. N. Pattanaik
+- teacher-anshu-kumar-pandey.png: cropped to the portrait circle from the supplied Anshu Pandey profile screenshot; phone/status interface is excluded
+
+The original uploaded files and the pre-existing principal/chairman images are retained in the ZIP.

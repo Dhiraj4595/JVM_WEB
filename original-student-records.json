@@ -1,0 +1,285 @@
+{
+  "JVM/2026/0412": {
+    "id": "JVM/2026/0412",
+    "regNo": "REG-2026-8841",
+    "name": "Aarav Sharma",
+    "avatar": "AS",
+    "cls": "Class 10",
+    "sec": "Section A",
+    "roll": 14,
+    "blood": "B+",
+    "house": "Shivaji House (Red)",
+    "parents": {
+      "father": "Dr. Rajesh Sharma (Chief Metallurgist, MECON)",
+      "mother": "Dr. Sunita Sharma (Assoc. Prof, RU)",
+      "phone": "+91 98351 22410",
+      "address": "Qtr B-42, Shyamali Colony, Doranda, Ranchi"
+    },
+    "attendance": {
+      "rate": "96.4%",
+      "present": 162,
+      "total": 168
+    },
+    "fees": {
+      "status": "Q1 & Q2 Cleared | Q3 Due 15 Oct 2026",
+      "q3Amt": 14370
+    },
+    "academics": {
+      "term": "Term 1 (Half-Yearly 2026)",
+      "aggregate": "95.5%",
+      "grade": "A1 (Distinction)",
+      "rank": "2nd in Section",
+      "marks": [
+        {
+          "s": "Mathematics Standard",
+          "m": 98
+        },
+        {
+          "s": "Science & Lab",
+          "m": 96
+        },
+        {
+          "s": "Social Science",
+          "m": 93
+        },
+        {
+          "s": "English",
+          "m": 91
+        },
+        {
+          "s": "Hindi Course-A",
+          "m": 96
+        },
+        {
+          "s": "IT",
+          "m": 99
+        }
+      ]
+    },
+    "remarks": "Exemplary analytical aptitude and leadership. Selected for CBSE Science Olympiad."
+  },
+  "JVM/2026/0789": {
+    "id": "JVM/2026/0789",
+    "regNo": "REG-2026-5120",
+    "name": "Ananya Verma",
+    "avatar": "AV",
+    "cls": "Class 12 Science",
+    "sec": "PCM + Computer Science",
+    "roll": 7,
+    "blood": "O+",
+    "house": "Raman House (Blue)",
+    "parents": {
+      "father": "Er. Sanjay Verma (DGM, SAIL Units Ranchi)",
+      "mother": "Smt. Rashmi Verma (Educationist)",
+      "phone": "+91 94311 88720",
+      "address": "Type IV, Qtr 18, Shyamali Colony, Ranchi"
+    },
+    "attendance": {
+      "rate": "98.2%",
+      "present": 170,
+      "total": 173
+    },
+    "fees": {
+      "status": "Annual Composite Fee Paid in Full (₹ 66,840)",
+      "q3Amt": 0
+    },
+    "academics": {
+      "term": "Board Pre-Trial 2026",
+      "aggregate": "97.2%",
+      "grade": "A1 (Stream Topper)",
+      "rank": "1st in Science Stream",
+      "marks": [
+        {
+          "s": "Physics Theory & Lab",
+          "m": 96
+        },
+        {
+          "s": "Chemistry Theory & Lab",
+          "m": 98
+        },
+        {
+          "s": "Mathematics",
+          "m": 100
+        },
+        {
+          "s": "Computer Science",
+          "m": 98
+        },
+        {
+          "s": "English Core",
+          "m": 94
+        }
+      ]
+    },
+    "remarks": "Brilliant grasp of advanced physics and coding. Nominated for National Merit."
+  },
+  "JVM/2026/1104": {
+    "id": "JVM/2026/1104",
+    "regNo": "REG-2026-7492",
+    "name": "Vivaan Kumar",
+    "avatar": "VK",
+    "cls": "Class 5",
+    "sec": "Section B",
+    "roll": 22,
+    "blood": "A+",
+    "house": "Ashoka House (Green)",
+    "parents": {
+      "father": "Shri Manoj Kumar (AGM, SBI Ranchi)",
+      "mother": "Smt. Priya Kumari (Homemaker)",
+      "phone": "+91 91223 44556",
+      "address": "Flat 302, Green Valley Apts, Hinoo, Ranchi"
+    },
+    "attendance": {
+      "rate": "92.5%",
+      "present": 150,
+      "total": 162
+    },
+    "fees": {
+      "status": "Q1 & Q2 Paid | Q3 Due (₹ 12,630)",
+      "q3Amt": 12630
+    },
+    "academics": {
+      "term": "Term 1 Evaluation 2026",
+      "aggregate": "90.8%",
+      "grade": "A1",
+      "rank": "5th in Section",
+      "marks": [
+        {
+          "s": "Mathematics",
+          "m": 94
+        },
+        {
+          "s": "General Science",
+          "m": 92
+        },
+        {
+          "s": "Social Studies",
+          "m": 90
+        },
+        {
+          "s": "English",
+          "m": 88
+        },
+        {
+          "s": "Hindi",
+          "m": 85
+        },
+        {
+          "s": "Computer",
+          "m": 96
+        }
+      ]
+    },
+    "remarks": "Energetic and curious. Exceptional problem solving in mental math."
+  },
+  "JVM/2026/1580": {
+    "id": "JVM/2026/1580",
+    "regNo": "REG-2026-3391",
+    "name": "Ishita Dasgupta",
+    "avatar": "ID",
+    "cls": "Nursery",
+    "sec": "Daisy Section",
+    "roll": 9,
+    "blood": "B+",
+    "house": "Tagore House (Yellow)",
+    "parents": {
+      "father": "Shri Sourav Dasgupta (Chief Engineer, CMPDI)",
+      "mother": "Smt. Debolina Dasgupta (Architect)",
+      "phone": "+91 97714 66201",
+      "address": "Qtr C-12, MECON Colony, Shyamali, Ranchi"
+    },
+    "attendance": {
+      "rate": "94.0%",
+      "present": 138,
+      "total": 147
+    },
+    "fees": {
+      "status": "Q1 & Q2 Cleared | Q3 Due (₹ 11,520)",
+      "q3Amt": 11520
+    },
+    "academics": {
+      "term": "Early Childhood Profile 2026",
+      "aggregate": "Outstanding (A+)",
+      "grade": "Exemplary",
+      "rank": "Starred Pupil",
+      "marks": [
+        {
+          "s": "Phonics & Alphabets",
+          "m": 98
+        },
+        {
+          "s": "Number Rhymes",
+          "m": 96
+        },
+        {
+          "s": "Motor Skills & Clay",
+          "m": 94
+        },
+        {
+          "s": "Social Interaction",
+          "m": 95
+        },
+        {
+          "s": "Music & Movement",
+          "m": 99
+        }
+      ]
+    },
+    "remarks": "Cheerful, highly expressive child. Excellent musical rhythm."
+  },
+  "JVM/2026/2240": {
+    "id": "JVM/2026/2240",
+    "regNo": "REG-2026-6677",
+    "name": "Rohan Agarwal",
+    "avatar": "RA",
+    "cls": "Class 11 Commerce",
+    "sec": "Accountancy & Econ",
+    "roll": 18,
+    "blood": "AB+",
+    "house": "Shivaji House (Red)",
+    "parents": {
+      "father": "Shri Amit Agarwal (CA, Lalpur)",
+      "mother": "Smt. Neeta Agarwal (Consultant)",
+      "phone": "+91 93341 05588",
+      "address": "45, Circular Road, Lalpur, Ranchi"
+    },
+    "attendance": {
+      "rate": "95.1%",
+      "present": 157,
+      "total": 165
+    },
+    "fees": {
+      "status": "Q1 & Q2 Cleared | Q3 Due (₹ 15,390)",
+      "q3Amt": 15390
+    },
+    "academics": {
+      "term": "Term 1 (Half-Yearly 2026)",
+      "aggregate": "92.6%",
+      "grade": "A1",
+      "rank": "3rd in Commerce",
+      "marks": [
+        {
+          "s": "Accountancy",
+          "m": 95
+        },
+        {
+          "s": "Economics",
+          "m": 94
+        },
+        {
+          "s": "Business Studies",
+          "m": 90
+        },
+        {
+          "s": "Applied Mathematics",
+          "m": 92
+        },
+        {
+          "s": "English Core",
+          "m": 92
+        }
+      ]
+    },
+    "remarks": "Strong conceptual clarity in accounting. Captain of Commerce Club."
+  }
+}

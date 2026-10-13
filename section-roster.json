@@ -1,0 +1,37 @@
+[
+  {
+    "studentId": "JVM/2026/0412",
+    "name": "Aarav Sharma",
+    "class": "Class 10",
+    "section": "Section A",
+    "classTeacher": "Class Teacher (original source uses this generic label; no named assignment was present in the source record)"
+  },
+  {
+    "studentId": "JVM/2026/0789",
+    "name": "Ananya Verma",
+    "class": "Class 12 Science",
+    "section": "PCM + Computer Science",
+    "classTeacher": "Class Teacher (original source uses this generic label; no named assignment was present in the source record)"
+  },
+  {
+    "studentId": "JVM/2026/1104",
+    "name": "Vivaan Kumar",
+    "class": "Class 5",
+    "section": "Section B",
+    "classTeacher": "Class Teacher (original source uses this generic label; no named assignment was present in the source record)"
+  },
+  {
+    "studentId": "JVM/2026/1580",
+    "name": "Ishita Dasgupta",
+    "class": "Nursery",
+    "section": "Daisy Section",
+    "classTeacher": "Class Teacher (original source uses this generic label; no named assignment was present in the source record)"
+  },
+  {
+    "studentId": "JVM/2026/2240",
+    "name": "Rohan Agarwal",
+    "class": "Class 11 Commerce",
+    "section": "Accountancy & Econ",
+    "classTeacher": "Class Teacher (original source uses this generic label; no named assignment was present in the source record)"
+  }
+]

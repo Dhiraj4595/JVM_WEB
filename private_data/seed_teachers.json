@@ -1,0 +1,262 @@
+[
+  {
+    "id": "TCH/101",
+    "password": "teacher@101",
+    "name": "Mr. B. N. Jha",
+    "designation": "School leadership",
+    "department": "School Leadership",
+    "avatar": "MB",
+    "classTeacherOf": "Assigned class roster",
+    "room": "Senior Wing Block A-201",
+    "subjects": []
+  },
+  {
+    "id": "TCH/102",
+    "password": "teacher@102",
+    "name": "Mrs. Anupama Srivastava",
+    "designation": "Vice Principal",
+    "department": "School Leadership",
+    "avatar": "MA",
+    "classTeacherOf": "Assigned class roster",
+    "room": "Physics Research Lab 1, Block B",
+    "subjects": []
+  },
+  {
+    "id": "TCH/103",
+    "password": "teacher@103",
+    "name": "Mrs. Aminder Kaur Saluja",
+    "designation": "Section-In-Charge",
+    "department": "Senior Secondary",
+    "avatar": "MA",
+    "classTeacherOf": "",
+    "room": "Chemistry Lab Block, 2nd Floor",
+    "subjects": []
+  },
+  {
+    "id": "TCH/104",
+    "password": "teacher@104",
+    "name": "Mr. L. N. Pattanaik",
+    "designation": "Maths; Dean of Student Welfare & Deputy Section In-Charge",
+    "department": "Mathematics",
+    "avatar": "ML",
+    "classTeacherOf": "Assigned class roster",
+    "room": "Supercomputing & AI Lab 1, Block A",
+    "subjects": [
+      {
+        "subject": "Mathematics",
+        "classes": "As assigned by school"
+      }
+    ]
+  },
+  {
+    "id": "TCH/105",
+    "password": "teacher@105",
+    "name": "Mrs. M. Purkayastha",
+    "designation": "Examination-In-Charge",
+    "department": "Academic Administration",
+    "avatar": "MM",
+    "classTeacherOf": "Assigned class roster",
+    "room": "Commerce Faculty Wing, 3rd Floor",
+    "subjects": []
+  },
+  {
+    "id": "TCH/106",
+    "password": "teacher@106",
+    "name": "Mrs. Tanuja Sataindra",
+    "designation": "Computer Science",
+    "department": "Computer Science",
+    "avatar": "MT",
+    "classTeacherOf": "",
+    "room": "Commerce Faculty Wing, 3rd Floor",
+    "subjects": [
+      {
+        "subject": "Computer Science",
+        "classes": "As assigned by school"
+      }
+    ]
+  },
+  {
+    "id": "TCH/107",
+    "password": "teacher@107",
+    "name": "Mrs. Sunita Dey",
+    "designation": "Chemistry",
+    "department": "Chemistry",
+    "avatar": "MS",
+    "classTeacherOf": "Assigned class roster",
+    "room": "Humanities Faculty Hall, Block B",
+    "subjects": [
+      {
+        "subject": "Chemistry",
+        "classes": "As assigned by school"
+      }
+    ]
+  },
+  {
+    "id": "TCH/108",
+    "password": "teacher@108",
+    "name": "Mr. Shantanu Samanta",
+    "designation": "PGT Teacher",
+    "department": "Teaching Staff",
+    "avatar": "MS",
+    "classTeacherOf": "Assigned class roster",
+    "room": "Language & Communication Lab, Block A",
+    "subjects": []
+  },
+  {
+    "id": "TCH/109",
+    "password": "teacher@109",
+    "name": "Mrs. Sushmita Misra",
+    "designation": "School Coordinator",
+    "department": "Academic Administration",
+    "avatar": "MS",
+    "classTeacherOf": "Assigned class roster",
+    "room": "Indian Languages Faculty Room, Middle Wing",
+    "subjects": []
+  },
+  {
+    "id": "TCH/110",
+    "password": "teacher@110",
+    "name": "Ms. Richa Mukherjee",
+    "designation": "PGT Teacher",
+    "department": "Teaching Staff",
+    "avatar": "MR",
+    "classTeacherOf": "Assigned class roster",
+    "room": "Primary Wing Coordinator Office, 2nd Floor",
+    "subjects": []
+  },
+  {
+    "id": "TCH/111",
+    "password": "teacher@111",
+    "name": "Mr. Santosh Kumar Sinha",
+    "designation": "Chemistry",
+    "department": "Chemistry",
+    "avatar": "MS",
+    "classTeacherOf": "Assigned class roster",
+    "room": "Primary Wing Staff Room, 1st Floor",
+    "subjects": [
+      {
+        "subject": "Chemistry",
+        "classes": "As assigned by school"
+      }
+    ]
+  },
+  {
+    "id": "TCH/112",
+    "password": "teacher@112",
+    "name": "Dr. Moti Prasad",
+    "designation": "PGT Teacher",
+    "department": "Teaching Staff",
+    "avatar": "DM",
+    "classTeacherOf": "Assigned class roster",
+    "room": "Pre-Primary Wing Room 101",
+    "subjects": []
+  },
+  {
+    "id": "TCH/113",
+    "password": "teacher@113",
+    "name": "Mr. Pranaw Kumar",
+    "designation": "PGT Teacher",
+    "department": "Teaching Staff",
+    "avatar": "MP",
+    "classTeacherOf": "Assigned class roster",
+    "room": "Pre-Primary Wing Room 102",
+    "subjects": []
+  },
+  {
+    "id": "TCH/114",
+    "password": "teacher@114",
+    "name": "Mr. Rakesh Kumar",
+    "designation": "Chemistry",
+    "department": "Chemistry",
+    "avatar": "MR",
+    "classTeacherOf": "",
+    "room": "JVM Sports Complex Pavilion Office",
+    "subjects": [
+      {
+        "subject": "Chemistry",
+        "classes": "As assigned by school"
+      }
+    ]
+  },
+  {
+    "id": "TCH/115",
+    "password": "teacher@115",
+    "name": "Mr. Suman Kumar",
+    "designation": "Physics",
+    "department": "Physics",
+    "avatar": "MS",
+    "classTeacherOf": "",
+    "room": "Senior Wing Block B-403",
+    "subjects": [
+      {
+        "subject": "Physics",
+        "classes": "As assigned by school"
+      }
+    ]
+  },
+  {
+    "id": "TCH/116",
+    "password": "teacher@116",
+    "name": "Mrs. Mamta Singh",
+    "designation": "PGT Teacher",
+    "department": "Teaching Staff",
+    "avatar": "MM",
+    "classTeacherOf": "",
+    "room": "Biology Lab Block, 1st Floor",
+    "subjects": []
+  },
+  {
+    "id": "TCH/117",
+    "password": "teacher@117",
+    "name": "Mr. Uday Dey",
+    "designation": "Mathematics",
+    "department": "Mathematics",
+    "avatar": "MU",
+    "classTeacherOf": "",
+    "room": "Commerce Faculty Wing, 3rd Floor",
+    "subjects": [
+      {
+        "subject": "Mathematics",
+        "classes": "As assigned by school"
+      }
+    ]
+  },
+  {
+    "id": "TCH/118",
+    "password": "teacher@118",
+    "name": "Mr. Anshu Kumar Pandey",
+    "designation": "Physics",
+    "department": "Physics",
+    "avatar": "MA",
+    "classTeacherOf": "",
+    "room": "Counseling & Psychometric Center, Ground Floor",
+    "subjects": [
+      {
+        "subject": "Physics",
+        "classes": "As assigned by school"
+      }
+    ]
+  },
+  {
+    "id": "TCH/119",
+    "password": "teacher@119",
+    "name": "Mr. Anil Kumar",
+    "designation": "Teacher",
+    "department": "Teaching Staff",
+    "avatar": "MA",
+    "classTeacherOf": "",
+    "room": "Fine Arts Studio, Creative Wing",
+    "subjects": []
+  },
+  {
+    "id": "TCH/120",
+    "password": "teacher@120",
+    "name": "Mrs. Srilekha G. Menon",
+    "designation": "Counsellor",
+    "department": "Counselling",
+    "avatar": "MS",
+    "classTeacherOf": "",
+    "room": "Sangeet Bhavan (Music Hall), Creative Wing",
+    "subjects": []
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "name": "Mr. B. N. Jha",
+    "designation": "Acting Principal; Sr. Vice Principal (Senior Secondary)",
+    "department": "School Leadership",
+    "subjects": []
+  },
+  {
+    "name": "Mrs. Anupama Srivastava",
+    "designation": "Vice Principal (Primary and Secondary)",
+    "department": "School Leadership",
+    "subjects": []
+  },
+  {
+    "name": "Mrs. Aminder Kaur Saluja",
+    "designation": "Section-In-Charge",
+    "department": "Senior Secondary",
+    "subjects": []
+  },
+  {
+    "name": "Mr. L. N. Pattanaik",
+    "designation": "Maths; Dean of Student Welfare and Deputy Section In-Charge",
+    "department": "Mathematics",
+    "subjects": [
+      "Mathematics"
+    ],
+    "photo": "/images/teacher-l-n-pattanaik-real.jpg"
+  },
+  {
+    "name": "Mrs. M. Purkayastha",
+    "designation": "Examination-In-Charge",
+    "department": "Academic Administration",
+    "subjects": []
+  },
+  {
+    "name": "Mrs. Tanuja Sataindra",
+    "designation": "Computer Science",
+    "department": "Computer Science",
+    "subjects": [
+      "Computer Science"
+    ]
+  },
+  {
+    "name": "Mrs. Sunita Dey",
+    "designation": "Chemistry",
+    "department": "Chemistry",
+    "subjects": [
+      "Chemistry"
+    ]
+  },
+  {
+    "name": "Mr. Shantanu Samanta",
+    "designation": "PGT Teacher",
+    "department": "Teaching Staff",
+    "subjects": []
+  },
+  {
+    "name": "Mrs. Sushmita Misra",
+    "designation": "School Coordinator",
+    "department": "Academic Administration",
+    "subjects": []
+  },
+  {
+    "name": "Ms. Richa Mukherjee",
+    "designation": "PGT Teacher",
+    "department": "Teaching Staff",
+    "subjects": []
+  },
+  {
+    "name": "Mr. Santosh Kumar Sinha",
+    "designation": "Chemistry",
+    "department": "Chemistry",
+    "subjects": [
+      "Chemistry"
+    ]
+  },
+  {
+    "name": "Dr. Moti Prasad",
+    "designation": "PGT Teacher",
+    "department": "Teaching Staff",
+    "subjects": []
+  },
+  {
+    "name": "Mr. Pranaw Kumar",
+    "designation": "PGT Teacher",
+    "department": "Teaching Staff",
+    "subjects": []
+  },
+  {
+    "name": "Mr. Rakesh Kumar",
+    "designation": "Chemistry",
+    "department": "Chemistry",
+    "subjects": [
+      "Chemistry"
+    ]
+  },
+  {
+    "name": "Mr. Suman Kumar",
+    "designation": "Physics",
+    "department": "Physics",
+    "subjects": [
+      "Physics"
+    ]
+  },
+  {
+    "name": "Mrs. Mamta Singh",
+    "designation": "PGT Teacher",
+    "department": "Teaching Staff",
+    "subjects": []
+  },
+  {
+    "name": "Mr. Uday Dey",
+    "designation": "Mathematics",
+    "department": "Mathematics",
+    "subjects": [
+      "Mathematics"
+    ]
+  },
+  {
+    "name": "Mr. Anshu Kumar Pandey",
+    "designation": "Physics",
+    "department": "Physics",
+    "subjects": [
+      "Physics"
+    ],
+    "photo": "/images/teacher-anshu-kumar-pandey.png"
+  },
+  {
+    "name": "Mr. Anil Kumar",
+    "designation": "PGT Teacher",
+    "department": "Teaching Staff",
+    "subjects": []
+  },
+  {
+    "name": "Mrs. Srilekha G. Menon",
+    "designation": "Counsellor",
+    "department": "Student Support",
+    "subjects": []
+  },
+  {
+    "name": "Mrs. Anamika Singh",
+    "designation": "Librarian",
+    "department": "Library & Resources",
+    "subjects": []
+  }
+]

@@ -1,0 +1,20 @@
+# Deploy on Render (render.com): New > Blueprint > pick this repo.
+# The website and its API run as ONE service, so the page's /api/... calls work with no extra setup.
+services:
+  - type: web
+    name: jvm-shyamali
+    runtime: docker
+    plan: starter            # a persistent disk needs a paid plan
+    healthCheckPath: /healthz
+    envVars:
+      - key: JVM_TRUST_PROXY
+        value: "1"
+      - key: JVM_DB_PATH
+        value: /data/school.sqlite3
+      # Only if the website pages are hosted on a different address than this service (see HOSTING.md):
+      # - key: JVM_ALLOWED_ORIGINS
+      #   value: https://www.yourschool.in
+    disk:
+      name: school-data
+      mountPath: /data
+      sizeGB: 1
